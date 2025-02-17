@@ -8,6 +8,11 @@ body {
     padding: 0;
 }
 
+
+
+
+
+
 /* 🔹 Контейнер */
 .container {
     max-width: 650px;
@@ -17,6 +22,10 @@ body {
     border-radius: 15px;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
 }
+
+
+
+
 
 /* 🔹 Заголовки */
 h1 {
@@ -36,6 +45,10 @@ h1 {
     margin: 20px 0;
 }
 
+
+
+
+
 /* 🔹 Стили для кнопок */
 button {
     background: #ff8c00;
@@ -52,3 +65,10 @@ button:hover {
     background: #ff4500;
     transform: scale(1.1);
 }
+
+
+
+
+
+
+
